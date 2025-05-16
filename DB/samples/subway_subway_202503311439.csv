@@ -1,0 +1,4 @@
+"id","subway_line","subway_name","waiting_room_extent","platform_extent","num_of_subway_users","transfor_number","subway_sort_id"
+1,"1호선",서울역,1234,2345,1000,2,A0001
+2,"2호선",신촌,1111,2222,33,44,B0002
+3,"1호선",신촌,1212,2323,111,112,B0002
